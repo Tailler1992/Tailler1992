@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482214-facebook_78681.png"/>[fb]
+[fb]:https://www.facebook.com/alexperetertov/
