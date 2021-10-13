@@ -12,16 +12,19 @@ Learning development
 <img src='https://user-images.githubusercontent.com/81881083/136349779-eccf7632-f082-4814-a8ae-b1759531cd6b.png' alt='php' height='60'>&nbsp;&nbsp;
 <img src='https://user-images.githubusercontent.com/81881083/136355212-f115a759-e427-4097-94d6-f3440ceed3fb.png' alt='c#' height='60'>&nbsp;&nbsp;
 
-#### My codewars:
-https://www.codewars.com/users/tailler1992
+#### My codewars:  https://www.codewars.com/users/tailler1992
+
+
 
 #### How to reach me:
-[<img src='https://user-images.githubusercontent.com/81881083/136352097-a3af77f9-46c3-4193-be98-fbfee52d062c.png' alt='telegram' height='30'>]() &nbsp;
-[<img src='https://user-images.githubusercontent.com/81881083/136352188-2f97770c-9788-47fb-93e9-f55113b7b3fc.png' alt='discord' height='30'>]() &nbsp;
-[<img src='https://user-images.githubusercontent.com/81881083/136352831-9296dad5-2910-4880-a1ad-acd794db620b.png' alt='instagram' height='30'>]() &nbsp;
-[<img src='https://user-images.githubusercontent.com/81881083/136352616-4aadb21b-fc32-4e29-a033-f1d0e42b255a.png' alt='skype' height='30'>]() &nbsp;
-[<img src='https://user-images.githubusercontent.com/81881083/136352517-ec5f04d9-b920-4c8f-8d82-89a2d5109113.png' alt='facebook' height='30'>]() &nbsp;
-[<img src='https://user-images.githubusercontent.com/81881083/136352721-77c0ac63-b707-4adb-82d1-531171339603.png' alt='VK' height='30'>]() 
+[<img src='https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg' alt='discord' height='30'>]() 
+
+[<img src='https://user-images.githubusercontent.com/81881083/137141649-44f56bae-2217-4c6d-a1ee-da0719ff46bf.png' alt='telegram' height='30'>]() &nbsp;
+[<img src='https://user-images.githubusercontent.com/81881083/137142712-393c6813-3b3d-4799-b194-5f876485bb71.png' alt='instagram' height='30'>]() &nbsp;
+[<img src='https://user-images.githubusercontent.com/81881083/137141901-4aa54676-f7ba-4af1-b78e-d7825ecd1b1a.png' alt='skype' height='30'>]() &nbsp;
+[<img src='https://user-images.githubusercontent.com/81881083/137142059-74ccb607-3d0f-4370-b245-474c1d9fa590.png' alt='facebook' height='30'>]() &nbsp;
+[<img src='https://user-images.githubusercontent.com/81881083/137141972-c7be58dd-3b13-41a5-916e-815407e05717.png' alt='VK' height='30'>]() &nbsp;
+[<img src='https://user-images.githubusercontent.com/81881083/137142262-b1739afd-1ec7-41d5-b485-1dd4235045b9.png' alt='tw' height='30'>]() &nbsp;
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 
