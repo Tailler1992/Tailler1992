@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aleksandr
 
 #### About me: 
-Learning development
+Junior Developer
 
 #### Skills:
 <img src='https://user-images.githubusercontent.com/81881083/136355613-0ccf143a-7abc-441d-a1af-25fabbf7cbb1.png' alt='html5' height='50'>&nbsp;&nbsp;
