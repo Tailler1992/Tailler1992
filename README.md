@@ -7,7 +7,7 @@ Junior Developer
 [![codewars](https://www.codewars.com/users/tailler2071/badges/large)](https://www.codewars.com/users/tailler2071) &nbsp;
 
 ### :hammer_and_wrench: Languages and Tools:
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" height="40"/>&nbsp;
 
 
 
