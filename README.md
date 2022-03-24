@@ -3,19 +3,15 @@
 #### About me: 
 Junior Developer
 
-#### Skills:
-<img src='https://user-images.githubusercontent.com/81881083/136355613-0ccf143a-7abc-441d-a1af-25fabbf7cbb1.png' alt='html5' height='50'>&nbsp;&nbsp;
-<img src='https://user-images.githubusercontent.com/81881083/136355529-e02ca0ea-3c84-4581-a332-a63d6ba92642.png' alt='css3' height='50'>&nbsp;&nbsp;
-<img src='https://user-images.githubusercontent.com/81881083/136355407-6f8ab4d9-41b5-49cb-be7c-d18fe07413bb.png' alt='js' height='50'>&nbsp;&nbsp;
+#### Codewars: 
+[![codewars](https://www.codewars.com/users/tailler2071/badges/large)](https://www.codewars.com/users/tailler2071) &nbsp;
 
-#### My codewars:  https://www.codewars.com/users/tailler1992
-[![codewars](https://www.codewars.com/users/tailler2071/badges/micro)](https://www.codewars.com/users/tailler2071) 
+### :hammer_and_wrench: Languages and Tools:
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg title="Figma" **alt="Figma" width="40" height="40"/>
 
-
-
-#### How to reach me:
-[<img src='https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg' alt='discord' height='30'>](https://discordapp.com/users/Tailler#5301) 
-
-[<img src='https://user-images.githubusercontent.com/81881083/137141649-44f56bae-2217-4c6d-a1ee-da0719ff46bf.png' alt='telegram' height='30'>](https://t.me/mrTailler1992) &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tailler1992&show_icons=true)   
