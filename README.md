@@ -1,12 +1,12 @@
-## Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>, my name is Aleksandr
-
-### About me: 
+#### Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>, my name is Aleksandr
+![](https://komarev.com/ghpvc/?username=Tailler1992&style=flat-square)
+#### About me: 
 Junior Developer
 
-### :pushpin: Codewars: 
+#### :pushpin: Codewars: 
 [![codewars](https://www.codewars.com/users/tailler2071/badges/small)](https://www.codewars.com/users/tailler2071)
 
-### :hammer_and_wrench: Languages and Tools:
+#### :hammer_and_wrench: Languages and Tools:
 ![GitHub stats](https://img.shields.io/badge/-HTML5-303133?style=flat-square&logo=html5)
 ![GitHub stats](https://img.shields.io/badge/-PUG-303133?style=flat-square&logo=pug)
 ![GitHub stats](https://img.shields.io/badge/-CSS-303133?style=flat-square&logo=css3)
@@ -29,7 +29,6 @@ Junior Developer
 ![GitHub stats](https://img.shields.io/badge/-Adobe&#32;Photoshop-303133?style=flat-square&logo=AdobePhotoshop)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tailler1992&show_icons=true) 
 
 
 
